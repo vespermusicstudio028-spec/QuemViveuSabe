@@ -11,3 +11,5 @@ Thumbs.db
 !.env.example
 .vscode/
 .idea/
+*.exe
+cloudflared*
