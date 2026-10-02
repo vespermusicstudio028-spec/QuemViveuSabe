@@ -1,0 +1,6 @@
+{
+  "name": "QUEM VIVEU, SABE! - Gerenciador de Publicações",
+  "description": "Aplicativo PWA para gerenciar e organizar as publicações da página 'QUEM VIVEU, SABE!' no Facebook, com controle de status, agendamento e cópia rápida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
